@@ -1,4 +1,4 @@
-# FaceID
+
 # Face Recognition with Deep Learning
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
