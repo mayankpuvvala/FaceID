@@ -35,4 +35,4 @@ Welcome to my 100 Days of Machine Learning project! In this project, I've develo
 ## Getting Started
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/mayankpuvvala/FaceID.git
