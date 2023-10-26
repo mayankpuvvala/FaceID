@@ -2,9 +2,7 @@
 # Face Recognition with Deep Learning
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-<p align="center">
-  <img src="project_image.png" alt="Project Image" width="500">
-</p>
+
 
 ## Table of Contents
 - [About](#about)
