@@ -35,4 +35,34 @@ Welcome to my 100 Days of Machine Learning project! In this project, I've develo
 ## Getting Started
 1. Clone the repository:
    ```sh
-   git clone https://github.com/mayankpuvvala/FaceID.git
+   git clone https://github.com/yourusername/your-repo.git
+   ```
+
+2. Install the required libraries:
+   ```sh
+   pip install dlib opencv-python numpy
+   ```
+
+3. Download the necessary shape predictor and recognition model files:
+   - [shape_predictor_68_face_landmarks.dat](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
+   - [dlib_face_recognition_resnet_model_v1.dat](http://dlib.net/files/dlib_face_recognition_resnet_model_v1.dat.bz2)
+
+4. Extract the downloaded files and place them in the project directory.
+
+## Usage
+- Run the script `face_recognition.py` to start the real-time face recognition system.
+- Capture known faces by pressing the 'c' key.
+- Press the 'Esc' key to exit.
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request with your improvements.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+- Hat tip to anyone whose code was used.
+- Inspirational quotes or content.
+- Emojis are provided by [Emojipedia](https://emojipedia.org/).
+
+🚀 Happy coding! 🤖
